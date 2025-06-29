@@ -69,3 +69,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     style = 'monokai'
     tabWidth = 4
     wrapperClass = 'highlight'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
